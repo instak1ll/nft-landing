@@ -1,6 +1,6 @@
 # Landing | scss, gulp
 
-<img src="https://github.com/instak1ll/nft-landing/assets/63525176/e81a07d3-2a59-4491-a761-f269543f4c47" alt="figma-nft" style="width: 400px">
+<img src="https://github.com/instak1ll/nft-landing/assets/63525176/c2880ca6-23ee-4f07-8558-e2f2c194c085" alt="figma-nft" style="width: 400px">
 
 ## Instalación y configuración
 
