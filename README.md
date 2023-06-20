@@ -26,6 +26,8 @@ Responsive web design
 - Figma
 - Html
 - Scss
+- Gulp
+- Webpack
 - Javascript
 - Librerias
 
